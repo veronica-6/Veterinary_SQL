@@ -1,2 +1,4 @@
 # Veterinary_SQL
-Initial approach to SQL databases and queries
+Tools used: MSSQL 
+
+This repository is a documentation of an initial approach to SQL databases and queries. 
